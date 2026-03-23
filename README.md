@@ -25,6 +25,10 @@ claudeshot eliminates all of that. Type `/cshot`, capture, and the `@path` is al
 4. The `@path` is copied to your clipboard **and** auto-pasted into the input box
 5. Type your question and send — the image is already in context
 
+## Demo
+
+![claudeshot demo on WSL2](demo.gif)
+
 ## Install
 
 ```bash
